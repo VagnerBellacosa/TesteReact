@@ -29,6 +29,6 @@
     ]
   },
   "browserslist": {
-    "production": [    ]
+    "production": []
   }
 }
